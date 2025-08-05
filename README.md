@@ -1,1 +1,1 @@
-Automação de anúncios de imóveis pelo CanalPro.
+Automação de anúncios de imóveis no CanalPro.
